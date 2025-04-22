@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "week-27-mono-deploy",
   "private": true,
   "scripts": {
     "build": "turbo run build",
